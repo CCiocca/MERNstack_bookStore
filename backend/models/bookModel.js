@@ -1,5 +1,5 @@
-import { Timestamp } from "mongodb";
-import mongoose from "mongoose";
+import { Timestamp } from 'mongodb';
+import mongoose from 'mongoose';
 
 const bookSchema  = mongoose.Schema(
     {
