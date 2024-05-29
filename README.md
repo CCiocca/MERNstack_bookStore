@@ -4,3 +4,7 @@ It has been developed using
 - Express.js
 - React
 - Node.js
+
+Styling with Tailwind
+
+
